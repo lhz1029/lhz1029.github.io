@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lily H. Zhang</title>
+    <link>https://lhz1029.github.io/</link>
+    <description>Recent content on Lily H. Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lhz1029.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my page</title>
+      <link>https://lhz1029.github.io/posts/welcome/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lhz1029.github.io/posts/welcome/</guid>
+      <description>Blog post coming soon!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lhz1029.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lhz1029.github.io/about/</guid>
+      <description>Hi! I&amp;rsquo;m a PhD student at New York University and am very lucky to be advised by Professors Rajesh Ranganath and Kyle Cranmer.
+I&amp;rsquo;m interested in deep learning, probabilistic modeling, and improving robustness and generalization of machine learning algorithms.
+I&amp;rsquo;m grateful to be a DeepMind scholar.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://lhz1029.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lhz1029.github.io/publications/</guid>
+      <description>Conference Papers Lily H. Zhang, Mark Goldstein, Rajesh Ranganath. &amp;ldquo;Understanding Failures in Out-of-distribution Detection with Deep Generative Models.&amp;rdquo; ICML, 2021.
+Workshop Papers Lily H. Zhang, Mark Goldstein, Rajesh Ranganath. &amp;ldquo;Understanding Out-of-distribution Detection with Deep Generative Models.&amp;rdquo; ICLR RobustML Workshop, 2021.
+Lily H. Zhang, Michael C. Hughes. &amp;ldquo;Rapid Model Comparison by Amortizing Across Models.&amp;rdquo; Proceedings of The 2nd Symposium on Advances in Approximate Bayesian Inference, 2020.</description>
+    </item>
+    
+  </channel>
+</rss>
